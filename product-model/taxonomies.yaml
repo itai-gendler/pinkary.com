@@ -1,0 +1,19 @@
+{
+  "scenarioKinds": [
+    {
+      "id": "primary",
+      "name": "Primary",
+      "description": "The ability working as people normally use it."
+    },
+    {
+      "id": "validation",
+      "name": "Validation",
+      "description": "Invalid input, a missing precondition or a refusal of who may act."
+    },
+    {
+      "id": "edge",
+      "name": "Edge",
+      "description": "A conflict, an exceptional path or a dependency outcome."
+    }
+  ]
+}
